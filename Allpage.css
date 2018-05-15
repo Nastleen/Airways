@@ -1,0 +1,21 @@
+
+body {
+  padding-top: 54px;
+  min-height: 100vh;
+  position: relative;
+  margin: 0;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+#card {
+	box-sizing: border-box;
+    margin-left: 30px;
+    text-align: center;
+    border: black;
+    border-radius: 2px;
+    border-color: black;
+    border-style: solid;
+}
